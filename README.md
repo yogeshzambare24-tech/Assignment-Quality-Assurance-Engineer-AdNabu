@@ -31,5 +31,10 @@ Navigate to the project folder and run the following command:
 pytest test_nabu_cart.py
 
 
+**Test Result**: 1 Passed
+<img width="988" height="506" alt="image" src="https://github.com/user-attachments/assets/b96912f5-22f7-4ee4-a788-ae2519111e7f" />
+
+
+
 **Technical Note**
 Although my previous 4.2 years of experience were in different frameworks, I have successfully set up the Python-Selenium environment and developed this script specifically for this assignment within a day to demonstrate my fast learning ability.
